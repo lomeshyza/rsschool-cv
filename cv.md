@@ -1,6 +1,6 @@
-## Galliamova Nadezhda
+# Galliamova Nadezhda
 
-Frontend developer
+_Frontend developer_
 
 ### Contacts
 ***

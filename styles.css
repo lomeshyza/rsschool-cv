@@ -194,8 +194,13 @@ pre {
 .footer {
     display: flex;
     justify-content: flex-end;
+    align-items: center;
     gap: 10px;
 }
 .footer img {
     height: 30px;
+}
+.footer p {
+    font-size: 20px;
+    font-weight: 600;
 }
